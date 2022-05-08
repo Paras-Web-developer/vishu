@@ -59,13 +59,13 @@ nav ul li a:hover{
 .content{
 	
 	position: absolute;
-	top: 50%;
+	top: 35%;
 	left:8%;
 	width: 65%;
 
 }
 .content .right{
-4
+
 }
 .content .right span::before{
 	content: '';
