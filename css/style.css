@@ -57,10 +57,19 @@ nav ul li a:hover{
     background-color: transparent;
 }
 .content{
+	
 	position: absolute;
 	top: 50%;
 	left:8%;
 	transform: translateY(-50%);
+}
+.content .left{
+
+}
+.content .right{
+	height: 45px;
+	width: 45px;
+	border: 2px solid red;
 }
 h1{
 	color: white;
