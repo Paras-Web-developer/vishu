@@ -79,7 +79,8 @@ nav ul li a:hover{
         position: absolute;
         background:  url("/img/anroid.png") no-repeat;
         background-size: contain;
-        
+        height: 100px;
+		width: 100px;
         
   
         
@@ -90,6 +91,8 @@ nav ul li a:hover{
         position: absolute;
         background:  url("/img/hbdabhi2.png") no-repeat;
         background-size: contain;
+		height: 100px;
+		width: 100px;
         
     }
     60%{
@@ -98,6 +101,8 @@ nav ul li a:hover{
         position: absolute;
         background:  url("/img/hbd3copy.png") no-repeat;
         background-size: contain;
+		height: 100px;
+		width: 100px;
         
     }
     80%{
@@ -106,6 +111,8 @@ nav ul li a:hover{
         position: absolute;
         background:  url("/img/jaggo.png") no-repeat;
         background-size: contain;
+		height: 100px;
+		width: 100px;
         
     }
     100%{
@@ -114,6 +121,8 @@ nav ul li a:hover{
         position: absolute;
         background:  url("/img/love.png") no-repeat;
         background-size: contain;
+		height: 100px;
+		width: 100px;
         
     }
 }
