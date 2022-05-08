@@ -77,7 +77,7 @@ nav ul li a:hover{
         content: ' ';
         display: inline-block;
         position: absolute;
-        background:  url("/img/background.jpg") no-repeat;
+        background:  url("/img/anroid.png") no-repeat;
         background-size: contain;
         
         
@@ -88,7 +88,7 @@ nav ul li a:hover{
         content: ' ';
         display: inline-block;
         position: absolute;
-        background:  url("/img/vishu.png") no-repeat;
+        background:  url("/img/hbd\ 3\ copy.png") no-repeat;
         background-size: contain;
         
     }
@@ -96,7 +96,7 @@ nav ul li a:hover{
         content: ' ';
         display: inline-block;
         position: absolute;
-        background:  url("/img/background.jpg") no-repeat;
+        background:  url("/img/hbd\ abhi\ 2.png") no-repeat;
         background-size: contain;
         
     }
@@ -104,7 +104,7 @@ nav ul li a:hover{
         content: ' ';
         display: inline-block;
         position: absolute;
-        background:  url("/icons/youtube.png") no-repeat;
+        background:  url("/img/jaggo.png") no-repeat;
         background-size: contain;
         
     }
@@ -112,7 +112,7 @@ nav ul li a:hover{
         content: ' ';
         display: inline-block;
         position: absolute;
-        background:  url("/icons/snapchat.png") no-repeat;
+        background:  url("/img/love.png") no-repeat;
         background-size: contain;
         
     }
