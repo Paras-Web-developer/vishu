@@ -79,8 +79,7 @@ nav ul li a:hover{
         position: absolute;
         background:  url("/img/background.jpg") no-repeat;
         background-size: contain;
-        height: 40px;
-        width: 40px;
+        
         
   
         
@@ -91,8 +90,7 @@ nav ul li a:hover{
         position: absolute;
         background:  url("/img/vishu.png") no-repeat;
         background-size: contain;
-        height: 40px;
-        width: 40px;
+        
     }
     60%{
         content: ' ';
@@ -100,8 +98,7 @@ nav ul li a:hover{
         position: absolute;
         background:  url("/img/background.jpg") no-repeat;
         background-size: contain;
-        height: 40px;
-        width: 40px;
+        
     }
     80%{
         content: ' ';
@@ -109,8 +106,7 @@ nav ul li a:hover{
         position: absolute;
         background:  url("/icons/youtube.png") no-repeat;
         background-size: contain;
-        height: 40px;
-        width: 40px;
+        
     }
     100%{
         content: ' ';
@@ -118,8 +114,7 @@ nav ul li a:hover{
         position: absolute;
         background:  url("/icons/snapchat.png") no-repeat;
         background-size: contain;
-        height: 40px;
-        width: 40px;
+        
     }
 }
 .content .right{
