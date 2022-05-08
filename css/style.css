@@ -155,6 +155,7 @@ button{
 	transition: .4s; 
 }
 button:hover{
+    color: white;
 	background-color: transparent;
 	border: 2px solid #f9f500;
 	cursor: pointer;
@@ -219,6 +220,7 @@ h5{
 	transition: .4s; 
 }
 .card .button:hover{
+    color: white;
 	background-color: transparent;
 	border: 2px solid #f9f500;
 	cursor: pointer;
