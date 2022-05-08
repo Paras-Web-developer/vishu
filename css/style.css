@@ -72,7 +72,7 @@ nav ul li a:hover{
     animation: animate infinite 10s ;
     /* animation-delay: 4s; */
     --webkit-box-reflect: below 1px linear-gradient(transparent,rgb(187, 4, 4));
-    margin-left: 13px;
+    margin-left: -128px;
     background-image: linear-gradient(120deg);
 }
 @keyframes animate{
@@ -237,7 +237,7 @@ button:hover{
 .title h2{
 	color: white;
 	font-size: 75px;
-	width: 1130px;
+	
 	margin: 30px auto;
 	text-align: center;
 }
