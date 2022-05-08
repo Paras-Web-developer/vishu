@@ -53,7 +53,7 @@ nav ul li a:hover{
 }
 .btn:hover{
 	color: white;
-    border: 1px solid black;
+    border: 1px solid #f9f500;
     background-color: transparent;
 }
 .content{
