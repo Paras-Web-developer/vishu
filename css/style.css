@@ -45,7 +45,7 @@ nav ul li a:hover{
 }
 .btn{
 	background-color:#f9f500;
-	color: white;
+	color: black;
 	text-decoration: none;
 	border: 2px solid transparent;
 	font-weight: bold;
@@ -98,7 +98,7 @@ h4{
 	padding: 10px 30px;
 	border-radius: 30px;
 	background-color:#f9f500;
-	color: white;
+	color: black;
 	box-shadow: 0px 0px 5px #000, 0px 0px 15px #858585;
 	top: 6px;
 	right: 6px; 
