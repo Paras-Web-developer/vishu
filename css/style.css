@@ -72,7 +72,7 @@ nav ul li a:hover{
     animation: animate infinite 10s ;
     /* animation-delay: 4s; */
     --webkit-box-reflect: below 1px linear-gradient(transparent,rgb(187, 4, 4));
-    margin-left: -130px;
+    margin-left: -135px;
     background-image: linear-gradient(120deg);
 }
 @keyframes animate{
