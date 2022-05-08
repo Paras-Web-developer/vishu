@@ -54,7 +54,9 @@ nav ul li a:hover{
 	transition: transform .4s; 
 }
 .btn:hover{
-	transform: scale(1.2);
+	color: white;
+    border: 1px solid black;
+    
 }
 .content{
 	position: absolute;
