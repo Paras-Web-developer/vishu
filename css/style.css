@@ -61,10 +61,66 @@ nav ul li a:hover{
 	position: absolute;
 	top: 50%;
 	left:8%;
-	transform: translateY(-50%);
-}
-.content .left{
+	width: 65%;
 
+}
+.content .left span::before{
+	content: '';
+    animation: animate infinite 10s ;
+    /* animation-delay: 4s; */
+    --webkit-box-reflect: below 1px linear-gradient(transparent,rgb(187, 4, 4));
+    margin-left: 13px;
+    background-image: linear-gradient(120deg);
+}
+@keyframes animate{
+    20%{
+        content: ' ';
+        display: inline-block;
+        position: absolute;
+        background:  url("/img/background.jpg") no-repeat;
+        background-size: contain;
+        height: 40px;
+        width: 40px;
+        
+  
+        
+    }
+    40%{
+        content: ' ';
+        display: inline-block;
+        position: absolute;
+        background:  url("/img/vishu.png") no-repeat;
+        background-size: contain;
+        height: 40px;
+        width: 40px;
+    }
+    60%{
+        content: ' ';
+        display: inline-block;
+        position: absolute;
+        background:  url("/img/background.jpg") no-repeat;
+        background-size: contain;
+        height: 40px;
+        width: 40px;
+    }
+    80%{
+        content: ' ';
+        display: inline-block;
+        position: absolute;
+        background:  url("/icons/youtube.png") no-repeat;
+        background-size: contain;
+        height: 40px;
+        width: 40px;
+    }
+    100%{
+        content: ' ';
+        display: inline-block;
+        position: absolute;
+        background:  url("/icons/snapchat.png") no-repeat;
+        background-size: contain;
+        height: 40px;
+        width: 40px;
+    }
 }
 .content .right{
 	height: 45px;
