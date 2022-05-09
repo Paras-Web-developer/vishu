@@ -477,23 +477,12 @@ footer p:nth-child(2){
 /* Responsive For Phones */
 
 @media (min-width:0px) and (max-width: 500px){
-	.content{
-		position: absolute;
-	    top: 15%;
-     	left:8%;
-	    width: 65%;
-	}
-
-	.hero{
-		height: 100vh;
-	    width: 33vh;
-	    background-color: #191919;
-	    background-size: cover;
-	    background-position: center;	
-	}
-
-	footer{
-		background: white;
+	.hero {
+		height: 32vh;
+		width: 100%;
+		background-color: #191919;
+		background-size: cover;
+		background-position: center;
 	}
 
 }
