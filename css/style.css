@@ -261,13 +261,9 @@ button:hover{
 	overflow: hidden;
 	text-align: center;
 }
-.card i{
-	font-size: 50px;
-	display: block;
-	text-align: center;
-	margin: 25px 0px;
-	color: #f9f500;
-
+.card img{
+	width: 100px;
+	height: 100px;
 }
 h5{
 	color: white;
