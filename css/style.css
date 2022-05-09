@@ -183,6 +183,7 @@ h4{
 }
 .about-text{
 	width: 550px;
+	padding: 26px;
 }
 .main{
 	width: 1130px;
@@ -261,7 +262,7 @@ button:hover{
 }
 .card img{
 	width: 171px;
-	height: 400px;
+	height: 350px;
 }
 h5{
 	color: white;
