@@ -375,10 +375,6 @@ footer p:nth-child(2){
 
 
 
-
-
-
-
 /* Responsive For Phones */
 
 @media (min-width:0px) and (max-width: 600px){
@@ -395,6 +391,10 @@ footer p:nth-child(2){
 	    background-color: #191919;
 	    background-size: cover;
 	    background-position: center;	
+	}
+
+	footer{
+		background-color: white;
 	}
 
 }
