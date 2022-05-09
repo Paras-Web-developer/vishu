@@ -246,13 +246,12 @@ button:hover{
 }
 .box{
 	display: flex;
+	flex-wrap: wrap;
 	justify-content: center;
 	align-items: center;
 	min-height: 400px;
 }
 .card{
-	
-	padding: 20px 35px;
 	background: #191919;
 	border-radius: 20px;
 	margin: 15px;
@@ -262,7 +261,7 @@ button:hover{
 }
 .card img{
 	width: 171px;
-	height: 300px;
+	height: 400px;
 }
 h5{
 	color: white;
