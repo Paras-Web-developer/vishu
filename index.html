@@ -13,32 +13,6 @@
 </head>
 <body>
 
-	 <!--  Start hamburger -->
-	 <div class="site-main-raper">
-        <button class="hamberger">
-            <img src="/img/icons8-hamburger-32 (1).png" alt="">
-        </button>
-
-        <div class="mobile-nav">
-            <button class="times">
-                <img src="/img/icons8-cross-48.png" alt="">
-            </button>
-            <ul>
-                <li><a href="#">Home</a></li>
-				<li><a href="#">About Us</a></li>
-				<li><a href="#">Services</a></li>
-				<li><a href="#">Skills</a></li>
-				<li><a href="#">Contact Us</a></li>
-
-
-
-            </ul>
-        </div>
-
-
-        <!-- End hamburger -->
-
-
 	<!----hero Section start---->
 
 	<header class="hero">
@@ -143,31 +117,5 @@
 		</div>
 		<p class="end">CopyRight By Prince Grover</p>
 	</footer>
-
-
-	<!--     Start hamberger javascript -->
-    <script>
-
-		//    Start hamberger javascript
-			let hamberger = document.querySelector('.hamberger');
-			let times = document.querySelector('.times');
-			let mobileNav = document.querySelector('.mobile-nav');
-	
-	
-			hamberger.addEventListener('click', function () {
-				mobileNav.classList.add('open');
-	
-	
-			});
-	
-	
-			times.addEventListener('click', function () {
-				mobileNav.classList.remove('open');
-			});
-	
-	
-
-		</script>
-	 </div>
 </body>
 </html>
