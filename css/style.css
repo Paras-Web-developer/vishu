@@ -261,8 +261,8 @@ button:hover{
 	text-align: center;
 }
 .card img{
-	width: 171px;
-	height: 350px;
+	width: 315px;
+    height: 418px;
 }
 h5{
 	color: white;
@@ -308,7 +308,7 @@ h5{
 }
 .contact-me .button-two{
 	background-color:#f9f500;
-	color: white;
+	color: rgb(0, 0, 0);
 	text-decoration: none;
 	border: 2px solid transparent;
 	font-weight: bold;
@@ -369,4 +369,26 @@ footer p:nth-child(2){
 	color:#f9f500;
 	bottom: 35px;
 	font-size: 14px; 
+}
+
+
+
+
+
+
+
+
+/* Responsive For Phones */
+
+@media (min-width:0px) and (max-width: 600px){
+	.content {
+		position: absolute;
+		top: 12%;
+	}
+
+	.hero {
+		height: 33vh;
+		
+	}
+
 }
