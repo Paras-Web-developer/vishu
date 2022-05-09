@@ -192,6 +192,9 @@ h4{
 	align-items: center;
 	justify-content: space-around;
 }
+.main img{
+	border-radius: 40%;
+}
 .about-text h2{
 	color: white;
 	font-size: 75px;
