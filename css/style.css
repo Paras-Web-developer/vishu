@@ -69,7 +69,7 @@ nav ul li a:hover{
 }
 .content .right span::before{
 	content: '';
-    animation: animate infinite 100s;
+    animation: animate infinite 10s;
     /* animation-delay: 4s; */
     --webkit-box-reflect: below 1px linear-gradient(transparent,rgb(187, 4, 4));
     margin-left: -135px;
