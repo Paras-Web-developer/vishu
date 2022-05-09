@@ -267,7 +267,7 @@ button:hover{
 h5{
 	color: #f9f500;
 	font-size: 23px;
-	margin: 0 10px;
+	margin: 22px 0;
 }
 .pra p{
 	color: white;
@@ -317,6 +317,7 @@ h5{
 	transition: .4s; 
 }
 .contact-me .button-two:hover{
+	color: white;
 	background-color: transparent;
 	border: 2px solid #f9f500;
 	cursor: pointer;
@@ -383,12 +384,17 @@ footer p:nth-child(2){
 @media (min-width:0px) and (max-width: 600px){
 	.content {
 		position: absolute;
-		top: 12%;
+	    top: 15%;
+     	left:8%;
+	    width: 65%;
 	}
 
 	.hero {
-		height: 33vh;
-		
+		height: 100vh;
+	    width: 100%;
+	    background-color: #191919;
+	    background-size: cover;
+	    background-position: center;	
 	}
 
 }
