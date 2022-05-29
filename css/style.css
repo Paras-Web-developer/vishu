@@ -57,6 +57,9 @@ nav ul li a:hover{
     border: 1px solid #f9f500;
     background-color: transparent;
 }
+div.left{
+    margin-top: 70px;
+}
 .content{
 	
 	position: absolute;
