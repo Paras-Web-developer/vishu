@@ -80,7 +80,7 @@ div.left{
     background-image: linear-gradient(120deg);
 }
 @keyframes animate{
-    20%{
+    0%{
         content: ' ';
         display: inline-block;
         position: absolute;
@@ -90,6 +90,16 @@ div.left{
 		width: 400px;
         
   
+        
+    }
+    20%{
+        content: ' ';
+        display: inline-block;
+        position: absolute;
+        background:  url("/img/hbd3copy.png") no-repeat;
+        background-size: contain;
+		height: 400px;
+		width: 400px;
         
     }
     40%{
@@ -106,23 +116,13 @@ div.left{
         content: ' ';
         display: inline-block;
         position: absolute;
-        background:  url("/img/hbd3copy.png") no-repeat;
-        background-size: contain;
-		height: 400px;
-		width: 400px;
-        
-    }
-    80%{
-        content: ' ';
-        display: inline-block;
-        position: absolute;
         background:  url("/img/jaggo.png") no-repeat;
         background-size: contain;
 		height: 400px;
 		width: 400px;
         
     }
-    100%{
+    80%{
         content: ' ';
         display: inline-block;
         position: absolute;
